@@ -1,0 +1,4 @@
+function codigoEjemplo()
+{
+    var a = '';
+}
